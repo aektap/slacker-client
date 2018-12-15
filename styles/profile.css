@@ -1,0 +1,50 @@
+
+img{border-radius: 70%;
+    float: left;
+    margin-right: 200px;
+    width:18%;
+    padding-top: 80px;
+   }
+
+h1{color: #008080;
+   font-family:arial;
+   font-size: 40px; 
+  }
+
+h2{ font-size: 30px;
+    word-spacing:8em;
+    color:#00b3b3;
+    margin-top:-40px;
+    text-indent:2em;       
+   }
+
+font.big {
+   font-size:15px;
+}
+
+span {display : inline-block;
+      color : #006666;
+      font-weight:bold;
+      width : 10rem;
+      top-padding:15px;
+      font-family:arial;
+     } 
+  
+aside{float: left;
+      margin-left: 30px;
+      margin-right:200px;
+     }
+
+p{margin-top:20px;
+  
+ }
+  
+hr{border-width:2px; 
+   border-color:#ff6600;
+   margin-bottom:60px;  
+  }
+
+
+
+
+

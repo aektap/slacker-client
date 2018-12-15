@@ -1,0 +1,223 @@
+/* loginStyle.css */
+
+
+@media only screen and (min-width: 833px){
+
+img{float: left;
+    margin-right: 150px;
+    margin-left: 70px;
+    width:50%;
+    padding-top:3rem;
+    border-radius:20%;
+}
+
+h1{ padding-top: 8rem;
+    font-size: 100px;
+    font-family: calibri, sans-serif;
+    color:#008080;
+    font-weight:normal;
+  }
+  
+h2{ margin-top: -4rem;
+    font-size: 50px;
+    color:#00b3b3;
+    font-family: calibri;
+    
+    }
+h3{ font-size: 30px;
+    margin-top: -2rem;
+    font-family: calibri;
+    color: #808070;
+    font-weight: normal;
+   }
+}
+
+@media only screen and (max-width:768px)
+{
+img{width:50%;
+    padding-top:30px;
+    border-radius:20%;
+    margin-left:1.5rem;
+}
+
+h1{ font-size: 50px;
+    font-family: calibri, sans-serif;
+    color:#008080;
+    font-weight:normal;
+    margin-left:1.5rem;
+  }
+  
+h2{ margin-top: -3rem;
+    font-size: 25px;
+    color:#00b3b3;
+    font-family: calibri;
+    margin-left:1.5rem;
+    
+}
+h3{ font-size: 15px;
+    margin-top: -1.5rem;
+    font-family: calibri;
+    color: #808070;
+    font-weight: normal;
+    margin-left:1.5rem;
+    }
+
+ input[type=text]{
+  width: 70%;
+  height:6%;
+  box-sizing: border-box;
+  display:block;
+  margin-left:1.5rem;
+  margin-top:1rem;
+  }
+  
+  input[type=password] {
+  width: 70%;
+  height:6%;
+  box-sizing: border-box;
+  display:block;
+  margin-left:1.5rem;
+
+}
+
+label {
+display:none;
+}
+input[type=button] {
+position:relative;
+top:1rem; 
+margin-left:30%;
+background-color:transparent;
+border: none;
+font-size: 15px;
+display:block;
+
+}
+
+}
+
+@media only screen and (max-width:414px)
+{
+img{width:50%;
+    padding-top:30px;
+    border-radius:20%;
+    margin-left:1.5rem;
+}
+
+h1{ font-size: 50px;
+    font-family: calibri, sans-serif;
+    color:#008080;
+    font-weight:normal;
+    margin-left:1.5rem;
+  }
+  
+h2{ margin-top: -3rem;
+    font-size: 25px;
+    color:#00b3b3;
+    font-family: calibri;
+    margin-left:1.5rem;
+    
+}
+h3{ font-size: 15px;
+    margin-top: -1.5rem;
+    font-family: calibri;
+    color: #808070;
+    font-weight: normal;
+    margin-left:1.5rem;
+    }
+
+ input[type=text]{
+  width: 70%;
+  height:6%;
+  box-sizing: border-box;
+  display:block;
+  margin-left:1.5rem;
+  margin-top:1rem;
+  }
+  
+  input[type=password] {
+  width: 70%;
+  height:6%;
+  box-sizing: border-box;
+  display:block;
+  margin-left:1.5rem;
+
+}
+
+label {
+display:none;
+}
+input[type=button] {
+position:relative;
+top:1rem; 
+margin-left:30%;
+background-color:transparent;
+border: none;
+font-size: 15px;
+display:block;
+
+}
+}
+
+@media only screen and (min-width:700px)
+and (max-width:823px)
+{
+img{width:30%;
+    padding-top:40px;
+    border-radius:20%;
+    margin-left:25%;
+}
+
+h1{ font-size: 40px;
+    font-family: calibri, sans-serif;
+    color:#008080;
+    font-weight:normal;
+    margin-left:15rem;
+  }
+  
+h2{ margin-top: -2rem;
+    font-size: 15px;
+    color:#00b3b3;
+    font-family: calibri;
+    margin-left:15rem;
+    
+}
+h3{ font-size: 10px;
+    margin-top: -1rem;
+    font-family: calibri;
+    color: #808070;
+    font-weight: normal;
+    margin-left:15rem;
+    }
+
+ input[type=text]{
+  width: 50%;
+  height:10%;
+  box-sizing: border-box;
+  display:block;
+  margin-left:10rem;
+  margin-top:1rem;
+  }
+  
+  input[type=password] {
+  width: 50%;
+  height:10%;
+  box-sizing: border-box;
+  display:block;
+  margin-left:10rem;
+
+}
+
+label {
+display:none;
+}
+input[type=button] {
+position:relative;
+top:0.5rem; 
+margin-left:40%;
+background-color:transparent;
+border: none;
+font-size: 15px;
+display:block;
+}
+}
