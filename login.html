@@ -14,16 +14,18 @@
       <h1> #stacker</h1>
 <h2> Collaboration Made Fun</h2>
 <h3> Collaborate. Do More. Make Things Happen. </h3>
-      
- <form name ="login">
-  <label for="username"><b>Username</b></label>
-    <input type="text" placeholder="username" name="username" required>
-  
-  <label for ="password"><b>Password</b></label>
-    <input type="password" placeholder="password" name="password" required>
-
-      <input type="button" onclick="check(this.form)" value="Login"/>
+   
+   <div>   
+ 
+      <form id = "message-form" method="GET" action ="channels.html">
+        <input type="text" class="message-box" placeholder ="username"></input>
+        <input type = "password" class="message-box" placeholder="password"></input>
+        <input type ="submit" id="user" value="Login"></input>
       </form>
+    </div>
+  
+  
+  
     
   </body>
   
