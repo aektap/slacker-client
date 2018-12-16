@@ -79,11 +79,8 @@ h3{ font-size: 15px;
   margin-left:1.5rem;
 
 }
-
-label {
-display:none;
-}
-input[type=button] {
+    
+input[type=submit] {
 position:relative;
 top:1rem; 
 margin-left:30%;
@@ -143,11 +140,8 @@ h3{ font-size: 15px;
   margin-left:1.5rem;
 
 }
-
-label {
-display:none;
-}
-input[type=button] {
+    
+input[type=submit] {
 position:relative;
 top:1rem; 
 margin-left:30%;
@@ -207,11 +201,8 @@ h3{ font-size: 10px;
   margin-left:10rem;
 
 }
-
-label {
-display:none;
-}
-input[type=button] {
+    
+input[type=submit] {
 position:relative;
 top:0.5rem; 
 margin-left:40%;
